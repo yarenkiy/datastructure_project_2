@@ -1,0 +1,8 @@
+Iki keklik;Erkan Ogur;20;Turk Halk;1996
+Yanmis icinde;Adamlar;60;Alternative;2019
+Bir derdim var;Mor ve Otesi;40;Alternative rock;2004
+Ask icinde;Mor ve Otesi;50;Alternative rock;2006
+Yuce Ask;Motive;70;rap;2020
+Zgt;Motive;65;rap;2021
+Koca bir sacmalik;Jakuzi;25;Alternative;2017
+
